@@ -226,6 +226,7 @@ nodejs:
     install: '1'
     npm_packages:
         - grunt
+        - gulp
 python:
     install: '1'
     packages: {  }
